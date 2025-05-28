@@ -175,7 +175,7 @@ Available: 10737418240
 
 📞 Support
 
-For any issues or assistance with the integration, please contact https://blaze.ws for support.
+For any issues or assistance with the integration, please contact blaze.ws for support.
 
 You can reach out to us for troubleshooting, feature requests, or any general inquiries related to this MCP integration.
 
