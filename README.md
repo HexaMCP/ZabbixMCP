@@ -170,3 +170,12 @@ Available: 10737418240
 - ❌ **Template/Group Not Found**: Verify required templates and group exist in Zabbix.
 
 ---
+
+---
+
+📞 Support
+For any issues or assistance with the integration, please contact blaze.ws for support.
+
+You can reach out to us for troubleshooting, feature requests, or any general inquiries related to this MCP integration.
+
+---
