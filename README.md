@@ -173,6 +173,14 @@ Available: 10737418240
 
 ---
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) — © 2025 [blaze.ws](https://blaze.ws) **BLAZE WEB SERVICES PRIVATE LIMITED**
+
+---
+
+---
+
 📞 Support
 
 For any issues or assistance with the integration, please contact [blaze.ws](https://blaze.ws) for support.
