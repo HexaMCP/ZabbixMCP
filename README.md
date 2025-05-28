@@ -13,12 +13,11 @@ This project implements a **custom MCP (Model Context Protocol)** client and ser
 
 ```
 ZabbixMCP/
-├── mcp_client.py         # MCP client script
-├── mcp_server/
-│   └── custom_mcp_server.py  # MCP server (FastMCP + Zabbix tools)
-├── .env                  # Zabbix API credentials
-├── requirements.txt      # Python dependencies
-└── README.md             # You're reading it!
+  ├── mcp_client.py # MCP Client - interacts with the MCP server and Zabbix tools
+  ├── mcp_server/ # MCP Server setup and FastAPI/Tool handler files
+  └── README.md # You're reading it!
+  └── .env # For your Zabbix server login credentials
+
 ```
 
 ---
