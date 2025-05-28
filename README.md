@@ -170,7 +170,3 @@ Available: 10737418240
 - ❌ **Template/Group Not Found**: Verify required templates and group exist in Zabbix.
 
 ---
-
-## 🔒 Security Notice
-
-Never commit your `.env` file or real credentials to version control.
