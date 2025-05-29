@@ -98,13 +98,13 @@ python mcp_client.py
 ### With Host Info (Memory/Disk)
 
 ```bash
-python mcp_client.py --host esxi-node-01
+py custom_mcp_client.py --host your-server-name --memory-disk-only
 ```
 
 ### Create Host & Log Output
 
 ```bash
-python mcp_client.py --domain example.com --log output.txt
+py custom_mcp_client.py --domain virtunest.com --add-only --log output.txt
 ```
 
 ---
