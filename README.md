@@ -104,7 +104,7 @@ py custom_mcp_client.py --host your-server-name --memory-disk-only
 ### Create Host & Log Output
 
 ```bash
-py custom_mcp_client.py --domain virtunest.com --add-only --log output.txt
+py custom_mcp_client.py --domain example.com --add-only --log output.txt
 ```
 
 ---
