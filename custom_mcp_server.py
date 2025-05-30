@@ -128,7 +128,7 @@ async def create_domain_host(domain: str, group_name: str, template_names: list[
                 "type": 1,
                 "main": 1,
                 "useip": 1,
-                "ip": "95.216.90.13",
+                "ip": "zabbix-ip",
                 "dns": "",
                 "port": "10052"
             }],
